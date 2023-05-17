@@ -19,7 +19,7 @@
 }
 
 *::selection{
-    background-color: orangered;
+    background-color: rgba(4,9,30,1);
     color: #fff;
 }
 
